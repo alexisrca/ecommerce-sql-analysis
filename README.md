@@ -38,5 +38,22 @@ sales analysis, and customer segmentation using the RFM framework.
 - **New Customers** represent the largest revenue opportunity 
   if retention improves
 
+## 📸 Results Preview
+
+### Data Quality Check
+![Data Exploration](images/01_data_exploration.png)
+
+### Top 10 Countries by Revenue
+![Sales by Country](images/02_sales_by_country.png)
+
+### Top 10 Products
+![Top Products](images/03_top_products.png)
+
+### Monthly Revenue Trend
+![Monthly Trend](images/04_monthly_trend.png)
+
+### RFM Customer Segments
+![RFM Segments](images/05_rfm_segments.png)
+
 ## 📁 Files
 - `ecommerce_analysis.sql` — All queries from exploration to segmentation
